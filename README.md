@@ -1,0 +1,1 @@
+# Sistema-de-Reconhecimento-de-Voz-para-Controle-de-Dispositivos
